@@ -18,6 +18,7 @@ export default function Page() {
       <Hero />
       <Navbar />
 
+
       <div className="h-[2px] w-full opacity-50 rounded-full bg-[linear-gradient(to_right,#57668D,#693233)]" />
       <div className=" relative min-h-screen flex flex-col justify-center bg-[url('/bgMovie.png')] bg-cover bg-center">
         <div className="absolute inset-0 bg-white/40 -z-0" />
